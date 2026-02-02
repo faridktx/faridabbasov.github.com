@@ -22,10 +22,10 @@ repository               : "faridktx/faridabbasov.github.com"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpeg"
+  avatar           : "/faridabbasov.github.com/images/profile.jpeg"
   name             : "Farid Abbasov"
   pronouns         :
-  bio              : "Ph.D. Student in Computer Science"
+  bio              : "B.S. Computer Science, Minor in Mathematics"
   location         : "Houston, TX"
   employer         : "University of Houston"
   uri              :
