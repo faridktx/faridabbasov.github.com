@@ -154,7 +154,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google"
+  provider               :  "google-analytics-4"
   google:
     tracking_id          :  "G-GQCN7644QR"
 
