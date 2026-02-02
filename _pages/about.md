@@ -22,7 +22,7 @@ Hi, I'm Farid Abbasov. I am a Computer Science student at the University of Hous
 * [Department of Computer Science, University of Houston](http://cs.uh.edu)
 * [LinkedIn Profile](https://www.linkedin.com/in/faridabbasov04/)
 * [GitHub](https://github.com/faridktx)
-* [Resume](/faridabbasov.github.com/files/FaridAbbasovResume2026.pdf)
+* [Resume]({{ site.baseurl }}/files/FaridAbbasovResume2026.pdf)
 
 ## Technical Skills
 * **Languages**: Java, C#, Python, C++, SQL, TypeScript, JavaScript
