@@ -156,7 +156,7 @@ social:
 analytics:
   provider               :  "google"
   google:
-    tracking_id          :  "G-XXXXXXXXXX" # REPLACE WITH YOUR GOOGLE ANALYTICS TRACKING ID
+    tracking_id          :  "G-GQCN7644QR"
 
 
 # Reading Files
